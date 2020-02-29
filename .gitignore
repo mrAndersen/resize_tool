@@ -1,5 +1,9 @@
-/cmake-build-debug
-/cmake-build-release
-/.idea
-/originals
-/resizes
+cmake-build-debug
+cmake-build-release
+.idea
+
+originals/*
+resizes/*
+
+!originals/.gitkeep
+!resizes/.gitkeep
